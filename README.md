@@ -1,1 +1,1 @@
-# JavaSpringSimpleAppr
+# JavaSpringSimpleApp
